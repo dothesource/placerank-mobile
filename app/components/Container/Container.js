@@ -1,17 +1,13 @@
-/* @flow weak */
-
 import React from 'react'
-import { View, Text } from 'react-native'
+import { View } from 'react-native'
 import PropTypes from 'prop-types'
 
 import styles from './styles'
 
-const Container = ({ children }) => (
-  <View style={styles.container}>{children}</View>
-)
+const Container = ({ children }) => <View style={styles.container}>{children}</View>
 
 Container.propTypes = {
-  children: PropTypes.any
+  children: PropTypes.any,
 }
 
 export default Container
