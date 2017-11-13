@@ -1,3 +1,9 @@
+# placerank-api
+
+An API for community based ranking of locations on a map. This API is created for the placerank-mobile project.
+
+This project uses react native and placerank-api will be used as the back-end
+
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
