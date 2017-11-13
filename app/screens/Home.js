@@ -22,15 +22,3 @@ const Home = () => (
 )
 
 export default Home
-
-// [
-//   {
-//     name: bla,
-//     lat: 1,
-//     long: 2
-//   } {
-//     name: ble,
-//     lat: 1,
-//     long: 2
-//   }
-// ]
